@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1.
+1. [Artikel untuk mencoba github](ebook/Artikel%20untuk%20mencoba%20github.pdf) — Nilmimi Wrickramasinghe (2006)
 2. [Bumi Manusia](ebook/Bumi%20Manusia.pdf) — Pramoedya Ananta Toer (1980)
 3. [Bumi](ebook/Bumi.pdf) — Tere Liye (2014)
 4. [Cerita Tentang Pustakawan dan Kepustakawanan](ebook/Cerita%20Tentang%20Pustakawan%20dan%20Kepustakawanan.pdf) — Blasius Sudarsono (2021)
