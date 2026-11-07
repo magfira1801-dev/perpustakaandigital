@@ -13,4 +13,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Menuju Era Baru Dokumentasi](ebook/Menuju%20Era%20Baru%20Dokumentasi.pdf) — Blasius Sudarsono (2016)
 10. [The Psychology of Money](ebook/The%20Psychology%20of%20Money.pdf) — Morgan Housel (2020)
 11. [Tren dan Dinamika Kajian Ilmu Perpustakaan dan Informasi](ebook/Tren%20dan%20Dinamika%20Kajian%20Ilmu%20Perpustakaan%20dan%20Informasi.pdf) — Laksmi, dkk. (2024)
+12. [Ringkasan Pemaparan UGC](Ringkasan%20Pemaparan%20UGC)
 Powered by GitHub Pages
