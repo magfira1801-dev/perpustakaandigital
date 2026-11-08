@@ -14,4 +14,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Tren dan Dinamika Kajian Ilmu Perpustakaan dan Informasi](ebook/Tren%20dan%20Dinamika%20Kajian%20Ilmu%20Perpustakaan%20dan%20Informasi.pdf) — Laksmi, dkk. (2024)
 11. [Ringkasan Pemaparan UGC](Ringkasan%20Pemaparan%20UGC.pdf)
 
-Powered by GitHub Pages 
+Powered by GitHub Pages
